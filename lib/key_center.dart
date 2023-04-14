@@ -1,0 +1,4 @@
+
+const appID=539553761;
+const appSign='ead59aea3048b92592102d49af7ea4adf88f7c51bbe6e1523c1d4d27b69890b0';
+const serverSecret='a96481226a16fdd395b583585cac1564';
